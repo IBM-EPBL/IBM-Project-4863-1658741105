@@ -44,6 +44,32 @@ The app should have a user registration and login.  After the user logged into t
 * [Data Flow Diagram & User Stories](https://github.com/Vikneysh/IBM-Project-4863-1658741105/blob/main/Pre-Development/Project%20Design%20Phase%20II/Data%20Flow%20Diagram%20%26%20User%20Stories.pdf)
 
 ## Project Planning Phase
-* [Milestone & Activity List]()
+* [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/blob/main/Pre-Development/Project%20Planning/Milestone%20and%20Activity%20List.pdf)
  
-* [Sprint Delivery Plan]()
+* [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/blob/main/Pre-Development/Project%20Planning/Sprint%20delivery%20Plan.pdf)
+
+# Project Development Phase
+
+* [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/tree/main/Project%20Development%20Phase/Sprint%201)
+
+* [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/tree/main/Project%20Development%20Phase/Sprint%202)
+
+* [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/tree/main/Project%20Development%20Phase/Sprint%203)
+
+* [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/tree/main/Project%20Development%20Phase/Sprint%204)
+
+# Final Deliverables
+
+* [Admin Portal](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/tree/main/Final%20Deliverables/Admin%20Portal)
+
+* [User App](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/tree/main/Final%20Deliverables/User%20App/FinalGeofence)
+
+* [Project Report](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/blob/main/Final%20Deliverables/Containment%20Zone%20Alert%20Application%20-%20Project%20Report.pdf)
+
+* [Demo Video](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/blob/main/Final%20Deliverables/ContainmentZoneAlertApplication.mp4)
+
+* [User Acceptance Testing Evaluation](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/blob/main/Final%20Deliverables/User%20Acceptance%20Testing%20Evaluation.pdf)
+
+* [Performance Testing Report](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/blob/main/Final%20Deliverables/Performance%20Testing%20Report.pdf)
+
+* [Project Files from JIRA](https://github.com/IBM-EPBL/IBM-Project-4863-1658741105/blob/main/Final%20Deliverables/Project%20Files%20from%20Jira.pdf)
